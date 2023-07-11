@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @albanPony
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on simple programming projects.
-- 📫 How to reach me: veronika.swarcewicz@gmail.com
+
